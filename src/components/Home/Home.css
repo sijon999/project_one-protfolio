@@ -1,0 +1,11 @@
+
+
+.banner_page {
+    background-color: red;
+    width: 100%;
+    height: 100vh;
+display: flex;
+    text-align: center;
+    align-items: center;
+    
+}

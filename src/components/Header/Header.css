@@ -1,0 +1,35 @@
+
+
+.side_navber{
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+    color: aliceblue;
+    text-align: center;
+    justify-items: space-between;
+}
+
+.social_icons {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+}
+
+.pic_and_name{
+    padding: 50px;
+}
+
+.section_name {
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.avaterPic {
+    width: 160px;
+    height: 160px;
+    border: 5px solid rgb(88, 63, 63);
+    border-radius: 50%;
+    margin: 10px;
+
+}
