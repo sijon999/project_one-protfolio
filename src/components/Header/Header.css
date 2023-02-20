@@ -3,7 +3,7 @@
 .side_navber{
     background-color: black;
     height: 100vh;
-    width: 20%;
+    width: 30vw;
     color: aliceblue;
     text-align: center;
     justify-items: space-between;
@@ -11,25 +11,30 @@
 
 .social_icons {
     display: flex;
-    justify-content: space-around;
-    padding: 60px;
+    color: red;
+    padding: 0px;
+    margin: auto 0px;
+}
+.social_icons h4 {
+    padding-inline: none;
 }
 
 .pic_and_name{
-    padding: 50px;
+    padding: 0px;
+    margin-top: 30px;
 }
 
 .section_name {
     padding: 10px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
 
 .avaterPic {
-    width: 160px;
-    height: 160px;
+    width: 15vw;
+    height: 15.5vw;
     border: 5px solid rgb(88, 63, 63);
     border-radius: 50%;
-    margin: 10px;
+    margin: 15px;
 
 }

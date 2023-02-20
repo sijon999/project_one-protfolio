@@ -1,6 +1,10 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-family: sans-serif, monospace;
+    font-weight: normal;
+    width: 100%;
+    overflow: hidden;
 }
 
 .App {
